@@ -1,0 +1,7 @@
+Django==5.1.4
+djangorestframework==3.14.0
+asgiref==3.8.1
+pytz==2024.1
+MarkupSafe==2.1.5
+django-autoslug==1.9.9
+django-pagination==1.0.7
